@@ -2,7 +2,7 @@
 
 A production-style workflow that collects customer feedback via **Microsoft Forms**, analyzes **sentiment with AI** in **Power Automate**, logs records to **Excel**, and visualizes insights in **Power BI** with a dynamic dashboard and an **Insights** button.
 
-> **Try it:** Submit feedback here → **[https://lnkd.in/g2xxKBZP](https://forms.cloud.microsoft/pages/responsepage.aspx?id=3t3bpphXuk6lqHiAfoLZ66OJEonra5pBujqZA8OmsOlUM1NVMFBLQ0JaVFpIN1dZMFM2UjFaUUlEQS4u&origin=lprLink&route=shorturl)**
+> **Try it:** Submit feedback here → **https://forms.cloud.microsoft/pages/responsepage.aspx?id=3t3bpphXuk6lqHiAfoLZ66OJEonra5pBujqZA8OmsOlUM1NVMFBLQ0JaVFpIN1dZMFM2UjFaUUlEQS4u&origin=lprLink&route=shorturl**
  
 > **See the deck:** **https://www.canva.com/design/DAGpFyjLn4U/VnK-0q59HLUONJCI_IA1sQ/view?utm_content=DAGpFyjLn4U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0aeb1460ee**
 
